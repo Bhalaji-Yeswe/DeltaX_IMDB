@@ -1,5 +1,5 @@
 ---DeltaX IMDB---
-(Assignment Round)     Candidate Name: S.V.Bhalaji     Candidate's Portfolio:        Designation: Full-Stack Developer
+(Assignment Round)     Candidate Name: S.V.Bhalaji     Candidate's Portfolio: https://bhalaji-yeswe.github.io/svbhalaj.github.io/       Designation: Full-Stack Developer
 
 Problem : 
 ---------
